@@ -3,6 +3,17 @@
 <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 1000 684" style="enable-background:new 0 0 1000 684;" xml:space="preserve">
 <style type="text/css">
+	path {
+	transition: .2s fill;
+	fill: #D3D3D3;
+}
+path:hover {
+	fill: #c40021;
+}
+text {
+	pointer-events: none;
+}
+
 	.st0{fill:#FDEC05;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
 	.st1{fill:#ECECEC;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
 	.st2{fill:#B21F7B;stroke:#000000;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:round;}
@@ -603,22 +614,11 @@
 <text transform="matrix(1 0 0 1 330.3335 568.7773)" class="st43 st44">Spain</text>
 <text transform="matrix(1 0 0 1 404.6642 472.1)" class="st43 st44">France</text>
 <text transform="matrix(1 0 0 1 367.4502 379.5)" class="st43 st44">U.K.</text>
-<text transform="matrix(1 0 0 1 224.39 342.9001)" class="st43 st44">Ireland</text>
-<text transform="matrix(1 0 0 1 554.9002 197.3001)" class="st43 st44">Sweden</text>
-<text transform="matrix(1 0 0 1 651.5999 236.6999)" class="st43 st44">Finland</text>
-<text transform="matrix(1 0 0 1 466.3501 258.9001)" class="st43 st44">Norway</text>
 <text transform="matrix(1 0 0 1 506.1002 494.3004)" class="st43 st44">Italy</text>
 <text transform="matrix(1 0 0 1 485.4004 393.7504)" class="st43 st44">Germany</text>
 <text transform="matrix(1 0 0 1 596.7004 384.071)" class="st43 st44">Poland</text>
-<text transform="matrix(1 0 0 1 214.1907 564.0996)" class="st43 st44">Portugal</text>
-<text transform="matrix(1 0 0 1 700.1001 368.2996)" class="st43 st44">Belarus</text>
-<text transform="matrix(1 0 0 1 753.9997 428.3998)" class="st43 st44">Ukraine</text>
-<text transform="matrix(1 0 0 1 560 458.5001)" class="st43 st45">Austria</text>
-<text transform="matrix(1 0 0 1 483.1632 465.2827)" class="st43 st46">Swizerland</text>
 <text transform="matrix(1.1847 0 0 1 669.9496 580.5997)" class="st43 st47">Greece</text>
 <text transform="matrix(1 0 0 1 807.316 587.9496)" class="st43 st44">Turkey</text>
-<text transform="matrix(1 0 0 1 926.3427 538.6999)" class="st43 st48">Georgia</text>
 <rect x="598.8" y="478.5" class="st49" width="161.1" height="27.4"/>
 <text transform="matrix(1 0 0 1 602.5995 499.6001)" class="st43 st50">Eastern Europe</text>
-<text transform="matrix(1 0 0 1 181.479 203.5999)" class="st43 st51">Iceland</text>
 </svg>
